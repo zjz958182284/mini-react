@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.e66fc27d.js","mappings":"AACAA,QAAQC,IADC","sources":["webpack://mini-react/./src/index.js"],"sourcesContent":["let test='test'\r\nconsole.log(test)"],"names":["console","log"],"sourceRoot":""}
